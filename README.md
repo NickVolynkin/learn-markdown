@@ -20,6 +20,12 @@ Also [protocol buffers][protobuf] such [protocol buffers][protobuf].
 
 [protobuf]: https://developers.google.com/protocol-buffers/
 
+## Ссылки внутри документа
+
+[Пример](#url-становится-ссылкой)
+
+[Блочное форматирование кода](#Блочное-форматирование-кода)
+
 # Code
 
 ## Внутристрочное форматирование кода
