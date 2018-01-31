@@ -2,6 +2,24 @@
 
 Изучаем разметку markdown
 
+# Ссылки
+
+## URL становится ссылкой
+
+http://www.boost.org/
+
+## Внутристрочная ссылка
+
+[Boost](http://www.boost.org/) provides free peer-reviewed portable C++ source libraries.
+
+## Ссылка с меткой
+
+[Protocol buffers][protobuf] are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data – think XML, but smaller, faster, and simpler.
+
+Also [protocol buffers][protobuf] such [protocol buffers][protobuf].
+
+[protobuf]: https://developers.google.com/protocol-buffers/
+
 # Code
 
 ## Внутристрочное форматирование кода
