@@ -17,6 +17,21 @@ echo 'Hello world'
 echo 'Привет!'
 ```
 
+## Подсветка синтаксиса
+
+Python
+
+```python
+for i in range(10):
+    print(1)
+```
+Bash
+
+```sh
+echo 'Hello world'
+rm -rf / 
+```
+
 # Маркированные списки
 
 Тут может быть какой-то текст.
